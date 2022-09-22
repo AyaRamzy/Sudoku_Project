@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<conio.h>
 #include <windows.h>
-#include "sudoko.h"
+#include "sudoku.h"
 
 int row,col,val,counter=14;
 
